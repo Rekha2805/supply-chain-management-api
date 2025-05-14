@@ -182,7 +182,3 @@ pip install -r requirements.txt
 
 Feel free to fork the repository, create a feature branch, and submit a pull request. Please follow the code style guidelines and ensure that tests are written for new features.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
